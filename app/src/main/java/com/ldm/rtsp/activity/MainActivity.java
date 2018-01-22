@@ -28,8 +28,6 @@ public class MainActivity extends Activity {
                    MY_PERMISSIONS_REQUEST_CALL_PHONE);
        }
 
-
-
         rtsp_edt = (EditText) findViewById(R.id.rtsp_edt);
         findViewById(R.id.rtsp_btn).setOnClickListener(new View.OnClickListener() {
             @Override
