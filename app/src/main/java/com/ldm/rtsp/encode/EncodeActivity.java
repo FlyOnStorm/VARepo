@@ -53,9 +53,7 @@ public class EncodeActivity extends Activity implements SurfaceHolder.Callback, 
     private Parameters parameters;
 
     int width = 1280;//800;////1920;
-
     int height = 720;//600;//1080;
-
     int framerate = 30;
 
 //    int biterate = 8500 * 1000;
